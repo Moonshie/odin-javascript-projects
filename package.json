@@ -1,0 +1,29 @@
+{
+  "name": "odin-javascript-projects",
+  "version": "1.0.0",
+  "description": "I've decided to make a single repository for all of my future projects for the Odin's \"JavaScript\" course. This way I plan on connecting them through a single index and try to use a single general stylesheet for various projects to limit repeating myself. I also want to use this as an opportunity to practice using JSLint and Prettier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moonshie/odin-javascript-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moonshie/odin-javascript-projects/issues"
+  },
+  "homepage": "https://github.com/Moonshie/odin-javascript-projects#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
